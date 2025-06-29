@@ -33,3 +33,4 @@ This task helped me understand the basics of deep learning, especially how CNNs 
 In the end, I successfully completed Task-2 by submitting the Python code, training output, accuracy graph, and a sample prediction. This project has given me a strong foundation in deep learning and boosted my confidence in building and presenting machine learning models.
 
 #OUTPUT:![Image](https://github.com/user-attachments/assets/d8c77b60-6cfc-497c-8863-828ee7a4afb9)
+![Image](https://github.com/user-attachments/assets/32e14c3e-b515-492b-8de9-c18e0429843e)
