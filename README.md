@@ -31,3 +31,5 @@ One of the challenges I faced was that the CIFAR-10 images appeared blurry when 
 This task helped me understand the basics of deep learning, especially how CNNs work for image classification. I also learned how to visualize model performance using Matplotlib and how to build an end-to-end machine learning project using VS Code.
 
 In the end, I successfully completed Task-2 by submitting the Python code, training output, accuracy graph, and a sample prediction. This project has given me a strong foundation in deep learning and boosted my confidence in building and presenting machine learning models.
+
+#OUTPUT:![Image](https://github.com/user-attachments/assets/d8c77b60-6cfc-497c-8863-828ee7a4afb9)
