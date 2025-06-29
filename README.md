@@ -35,3 +35,4 @@ In the end, I successfully completed Task-2 by submitting the Python code, train
 #OUTPUT:![Image](https://github.com/user-attachments/assets/d8c77b60-6cfc-497c-8863-828ee7a4afb9)
 ![Image](https://github.com/user-attachments/assets/32e14c3e-b515-492b-8de9-c18e0429843e)
 ![Image](https://github.com/user-attachments/assets/894dbb87-f415-4e02-bb99-69177d30becf)
+![Image](https://github.com/user-attachments/assets/457fe660-f056-483c-ab09-7679f9369781)
